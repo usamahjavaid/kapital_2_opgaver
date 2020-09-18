@@ -2,4 +2,4 @@
 
 
 
-Refactorerings opgave og metoder
+Refactorerings opgaver og metoder
